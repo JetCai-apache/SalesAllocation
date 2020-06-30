@@ -1,2 +1,3 @@
 # SalesAllocation
-For auto-assigning accounts&amp;opportunities to sales reps
+For auto-assigning accounts&opportunities to sales reps
+Both account owners and IB owners are covered
